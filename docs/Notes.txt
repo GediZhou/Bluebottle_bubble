@@ -1,0 +1,3 @@
+1.r and ms are totally dependent on each other, so when computing either one,
+should I intergrate one of them and update the other with their relation, or
+should I intergrate both? And why ?
